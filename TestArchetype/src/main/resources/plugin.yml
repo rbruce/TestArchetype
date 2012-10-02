@@ -1,5 +1,5 @@
 name: TestArchetype
-main: edu.unca.rbruce.TestArchetype.TestArchetype
+main: edu.unca.rbruce.TestArchetype.MyPlugin
 version: 0.1
 
 commands:

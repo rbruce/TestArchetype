@@ -1,7 +1,7 @@
 package edu.unca.rbruce.TestArchetype;
 
 /*
-    This file is part of TestArchetype
+    This file is part of MyPlugin
 
     Foobar is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -20,7 +20,7 @@ package edu.unca.rbruce.TestArchetype;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class TestArchetype extends JavaPlugin {
+public class MyPlugin extends JavaPlugin {
 
 	//ClassListeners
 	private final TestArchetypeCommandExecutor commandExecutor = new TestArchetypeCommandExecutor(this);

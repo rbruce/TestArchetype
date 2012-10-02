@@ -1,0 +1,8 @@
+name: TestArchetype
+main: edu.unca.rbruce.TestArchetype.TestArchetype
+version: 0.1
+
+commands:
+   command:
+      description: A Command
+      usage: /<command> 
